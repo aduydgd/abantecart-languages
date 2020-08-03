@@ -54,7 +54,7 @@
   </definition>
   <definition>
     <key>text_disabled</key>
-    <value><![CDATA[残]]></value>
+    <value><![CDATA[禁用]]></value>
   </definition>
   <definition>
     <key>text_none</key>
@@ -82,7 +82,7 @@
   </definition>
   <definition>
     <key>text_close</key>
-    <value><![CDATA[关]]></value>
+    <value><![CDATA[关闭]]></value>
   </definition>
   <definition>
     <key>text_pagination</key>
@@ -110,11 +110,11 @@
   </definition>
   <definition>
     <key>text_home</key>
-    <value><![CDATA[家]]></value>
+    <value><![CDATA[首页]]></value>
   </definition>
   <definition>
     <key>button_insert</key>
-    <value><![CDATA[插]]></value>
+    <value><![CDATA[插入]]></value>
   </definition>
   <definition>
     <key>button_delete</key>
@@ -134,7 +134,7 @@
   </definition>
   <definition>
     <key>button_reset</key>
-    <value><![CDATA[重启]]></value>
+    <value><![CDATA[重置]]></value>
   </definition>
   <definition>
     <key>button_reload</key>
@@ -146,7 +146,7 @@
   </definition>
   <definition>
     <key>button_close</key>
-    <value><![CDATA[关]]></value>
+    <value><![CDATA[关闭]]></value>
   </definition>
   <definition>
     <key>button_upgrade</key>
@@ -174,7 +174,7 @@
   </definition>
   <definition>
     <key>button_back</key>
-    <value><![CDATA[背部]]></value>
+    <value><![CDATA[返回]]></value>
   </definition>
   <definition>
     <key>button_continue</key>
@@ -182,11 +182,11 @@
   </definition>
   <definition>
     <key>button_remove</key>
-    <value><![CDATA[去掉]]></value>
+    <value><![CDATA[删除]]></value>
   </definition>
   <definition>
     <key>button_backup</key>
-    <value><![CDATA[备用]]></value>
+    <value><![CDATA[备份]]></value>
   </definition>
   <definition>
     <key>button_restore</key>
@@ -234,11 +234,11 @@
   </definition>
   <definition>
     <key>button_actas</key>
-    <value><![CDATA[代表法]]></value>
+    <value><![CDATA[法律法规]]></value>
   </definition>
   <definition>
     <key>button_message</key>
-    <value><![CDATA[与这家客户]]></value>
+    <value><![CDATA[与这个客户]]></value>
   </definition>
   <definition>
     <key>button_approve</key>
@@ -262,7 +262,7 @@
   </definition>
   <definition>
     <key>tab_details</key>
-    <value><![CDATA[店详细]]></value>
+    <value><![CDATA[店铺详细信息]]></value>
   </definition>
   <definition>
     <key>tab_checkout</key>
@@ -322,7 +322,7 @@
   </definition>
   <definition>
     <key>tab_product</key>
-    <value><![CDATA[制品]]></value>
+    <value><![CDATA[产品]]></value>
   </definition>
   <definition>
     <key>tab_shipping</key>
@@ -406,7 +406,7 @@
   </definition>
   <definition>
     <key>text_insert</key>
-    <value><![CDATA[插]]></value>
+    <value><![CDATA[插入]]></value>
   </definition>
   <definition>
     <key>text_select_items</key>
@@ -414,7 +414,7 @@
   </definition>
   <definition>
     <key>button_go</key>
-    <value><![CDATA[走]]></value>
+    <value><![CDATA[开始]]></value>
   </definition>
   <definition>
     <key>search_everywhere</key>
@@ -422,7 +422,7 @@
   </definition>
   <definition>
     <key>column_action</key>
-    <value><![CDATA[行动]]></value>
+    <value><![CDATA[操作]]></value>
   </definition>
   <definition>
     <key>error_permission_access</key>
@@ -434,11 +434,11 @@
   </definition>
   <definition>
     <key>text_add</key>
-    <value><![CDATA[加]]></value>
+    <value><![CDATA[添加]]></value>
   </definition>
   <definition>
     <key>text_add_block</key>
-    <value><![CDATA[加挡]]></value>
+    <value><![CDATA[下一个]]></value>
   </definition>
   <definition>
     <key>text_resource_library</key>
@@ -522,7 +522,7 @@
   </definition>
   <definition>
     <key>text_on_top</key>
-    <value><![CDATA[重回巅峰]]></value>
+    <value><![CDATA[置顶]]></value>
   </definition>
   <definition>
     <key>text_all</key>
@@ -558,7 +558,7 @@
   </definition>
   <definition>
     <key>text_or</key>
-    <value><![CDATA[要么]]></value>
+    <value><![CDATA[或者]]></value>
   </definition>
   <definition>
     <key>error_seo_keyword</key>
@@ -590,7 +590,7 @@
   </definition>
   <definition>
     <key>text_free</key>
-    <value><![CDATA[自由]]></value>
+    <value><![CDATA[免费]]></value>
   </definition>
   <definition>
     <key>text_sure</key>
@@ -598,7 +598,7 @@
   </definition>
   <definition>
     <key>button_add</key>
-    <value><![CDATA[加]]></value>
+    <value><![CDATA[添加]]></value>
   </definition>
   <definition>
     <key>text_please_confirm</key>

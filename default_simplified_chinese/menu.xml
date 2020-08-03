@@ -2,7 +2,7 @@
 <definitions>
   <definition>
     <key>text_index_home_menu</key>
-    <value><![CDATA[家]]></value>
+    <value><![CDATA[首页]]></value>
   </definition>
   <definition>
     <key>text_product_special_menu</key>
@@ -14,7 +14,7 @@
   </definition>
   <definition>
     <key>text_checkout_cart_menu</key>
-    <value><![CDATA[大车]]></value>
+    <value><![CDATA[购物车]]></value>
   </definition>
   <definition>
     <key>text_checkout_shipping_menu</key>

@@ -30,6 +30,6 @@
   </definition>
   <definition>
     <key>text_account_logout_menu</key>
-    <value><![CDATA[登出]]></value>
+    <value><![CDATA[退出]]></value>
   </definition>
 </definitions>

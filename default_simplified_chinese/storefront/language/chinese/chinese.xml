@@ -74,7 +74,7 @@
 	</definition>
 	<definition>
 		<key>button_back</key>
-		<value><![CDATA[背部]]></value>
+		<value><![CDATA[返回]]></value>
 	</definition>
 	<definition>
 		<key>button_add_to_cart</key>
@@ -90,7 +90,7 @@
 	</definition>
 	<definition>
 		<key>text_wishlist_add_success</key>
-		<value><![CDATA[追加到意愿清单]]></value>
+		<value><![CDATA[追加到愿望清单]]></value>
 	</definition>
 	<definition>
 		<key>text_wishlist_remove_success</key>
@@ -134,7 +134,7 @@
 	</definition>
 	<definition>
 		<key>button_wish</key>
-		<value><![CDATA[希望]]></value>
+		<value><![CDATA[愿望]]></value>
 	</definition>
 	<definition>
 		<key>button_print</key>
@@ -162,7 +162,7 @@
 	</definition>
 	<definition>
 		<key>button_go</key>
-		<value><![CDATA[走]]></value>
+		<value><![CDATA[开始]]></value>
 	</definition>
 	<definition>
 		<key>button_coupon</key>
@@ -174,11 +174,11 @@
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_ttl</key>
-		<value><![CDATA[缺货通知的：〜]]></value>
+		<value><![CDATA[缺货通知：%s]]></value>
 	</definition>
 	<definition>
 		<key>notice_out_of_stock_body</key>
-		<value><![CDATA[产品“〜”已达到零或负盘点主产品或所有选项。 <br/>作为autodisable设置的结果，产物（〜）中的自动禁用！]]></value>
+		<value><![CDATA[产品" %s "已达到零或负数，请检查主产品或所有选项。 <br/>作为autodisable设置的结果，产物（%s）中的自动禁用！]]></value>
 	</definition>
 	<definition>
 		<key>no_payment_required</key>
@@ -190,11 +190,11 @@
 	</definition>
 	<definition>
 		<key>text_sorting_name_asc</key>
-		<value><![CDATA[名称A	-	Z]]></value>
+		<value><![CDATA[名称A-Z]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_name_desc</key>
-		<value><![CDATA[名称Z	-	A]]></value>
+		<value><![CDATA[名称Z-A]]></value>
 	</definition>
 	<definition>
 		<key>text_sorting_price_asc</key>
@@ -226,7 +226,7 @@
 	</definition>
 	<definition>
 		<key>text_close</key>
-		<value><![CDATA[关]]></value>
+		<value><![CDATA[关闭]]></value>
 	</definition>
 	<definition>
 		<key>text_balance</key>
@@ -238,7 +238,7 @@
 	</definition>
 	<definition>
 		<key>button_pay_with_balance</key>
-		<value><![CDATA[支付保持平衡]]></value>
+		<value><![CDATA[余额付款]]></value>
 	</definition>
 	<definition>
 		<key>button_apply_balance</key>
@@ -254,7 +254,7 @@
 	</definition>
 	<definition>
 		<key>text_applied_balance_to_order</key>
-		<value><![CDATA[〜用于订单＃〜]]></value>
+		<value><![CDATA[%s 用于订单＃%s]]></value>
 	</definition>
 	<definition>
 		<key>text_maintenance_notice</key>
@@ -286,11 +286,11 @@
 	</definition>
 	<definition>
 		<key>error_captcha</key>
-		<value><![CDATA[人力验证失败！请再试一次。]]></value>
+		<value><![CDATA[人工验证失败！请再试一次。]]></value>
 	</definition>
 	<definition>
 		<key>entry_attached</key>
-		<value><![CDATA[附]]></value>
+		<value><![CDATA[附加]]></value>
 	</definition>
 	<definition>
 		<key>text_call_to_order</key>
@@ -306,7 +306,7 @@
 	</definition>
 	<definition>
 		<key>text_free</key>
-		<value><![CDATA[自由]]></value>
+		<value><![CDATA[免费]]></value>
 	</definition>
 	<definition>
 		<key>text_free_shipping</key>
@@ -330,6 +330,6 @@
 	</definition>
 	<definition>
 		<key>text_back_on_top</key>
-		<value><![CDATA[]]></value>
+		<value><![CDATA[返回最顶部]]></value>
 	</definition>
 </definitions>
